@@ -5,7 +5,7 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Student Grade Calculator
-PURPOSE OF PROJECT: To calculate the student grades
+PURPOSE OF PROJECT: To calculate the student grades, total marks, average percentage, assign grades based on the average percentage achieved.
 VERSION or DATE: 30 Dec 2023
 HOW TO START THIS PROJECT: Using BlueJ or any integrated development environment (IDE) compatible
 AUTHORS: Mpho Madini
